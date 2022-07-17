@@ -1,7 +1,8 @@
-from fastapi import FastAPI, File, UploadFile
+from fastapi import FastAPI, File, UploadFile, Body
 import csv
 from io import StringIO
 from googletrans import Translator
+from pydantic import BaseModel
 app = FastAPI()
 
 translator = Translator()
@@ -14,9 +15,11 @@ def translate_text(text, g_code="en-US"):
     d = translator.translate(text, dest=g_code)
     print(d)
     return d
+class Lang(BaseModel):
+    lang: str
 
 @app.post("/user")
-async def write_home(lang: str, file: UploadFile = File(...)):
+async def write_home(lang: str = Body(..., embed=True), file: UploadFile = File(...)):
     data = []
     contents = await file.read()
     decoded = contents.decode(encoding="utf8", errors='ignore')
