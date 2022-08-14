@@ -7,7 +7,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 import io
 import os
-import pandas as pd
 app = FastAPI()
 origins = [
     "http://localhost.tiangolo.com",
