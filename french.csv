@@ -1,0 +1,256 @@
+data,data1
+Publié sur {ChannelName},Publi?? dans %{channelName}
+Publié sur {ChannelName},Publi?? dans %{channelName}
+#NOM?,#NOM?
+#NOM?,#NOM?
+#NOM?,- Niveau de compétence id??al
+#NOM?,- Niveau de compétence id??al
+#NOM?,- Niveau de compétence id??al atteint
+#NOM?,- Niveau de compétence id??al atteint
+Ma partition est un tracker personnel de votre apprentissage et de votre influence.Chaque action que vous entreprenez sur Edcast vous gagne des points et affecte votre score.Vous pouvez voir en temps réel comment vous allez par rapport à vos collègues.Les points sont gagnés par:,"""Mon score"" est l'aggr??gat de votre apprentissage et de votre influence. Chaque action r??alis??e sur Edcast vous rapporte des points et influence votre score. Les points se gagnent en :"
+Ma partition est un tracker personnel de votre apprentissage et de votre influence.Chaque action que vous entreprenez sur Edcast vous gagne des points et affecte votre score.Vous pouvez voir en temps réel comment vous allez par rapport à vos collègues.Les points sont gagnés par:,"""Mon score"" est l'aggr??gat de votre apprentissage et de votre influence. Chaque action r??alis??e sur Edcast vous rapporte des points et influence votre score. Les points se gagnent en :"
+Mon score vous aide à mesurer vos progrès,"""Mon score"" vous aide ? mesurer vos progr??s"
+Mon score vous aide à mesurer vos progrès,"""Mon score"" vous aide ? mesurer vos progr??s"
+Aime:,??j??aime??:
+Aime:,??j??aime??:
+(% {type} section),(% {type} section)
+(% {type} section),(% {type} section)
+(Current),(Actuel)
+(Besoin de 3 caractères minimum),(Au moins 3 caractères minimum)
+(Besoin de 3 caractères minimum),(Au moins 3 caractères minimum)
+(Contenu de partout sur le Web),(Contenu de l'ensemble du web)
+(Contenu de partout sur le Web),(Contenu de l'ensemble du web)
+"(jpg, jpeg, png, jusqu'à% {size})","(jpg, jpeg, png, jusqu '?% {size})"
+"(jpg, jpeg, png, jusqu'à% {size})","(jpg, jpeg, png, jusqu '?% {size})"
+"(jpg, jpeg, png, jusqu'à% {size})","(jpg, jpeg, png, jusqu '?% {size})"
+"(jpg, jpeg, png, jusqu'à% {size})","(jpg, jpeg, png, jusqu '?% {size})"
+(Maximum de 15 collaborateurs),(Maximum de 15 collaborateurs)
+(Maximum de 15 collaborateurs),(Maximum de 15 collaborateurs)
+(Maximum de 3 compétences),(Maximum de 3 comp.)
+(Maximum de 3 compétences),(Maximum de 3 comp.)
+(Maximum de 3 compétences),(Maximum de 3 comp.)
+(Maximum de 3 compétences),(Maximum de 3 comp.)
+(Mois: jours: HRS: MINS),(MOIS : JOURS : H : MIN)
+(Mois: jours: HRS: MINS),(MOIS : JOURS : H : MIN)
+(Peut être utilisé pour contrôler les badges d'attribution pour l'achèvement de la voie),(peut ?être utilisé?? pour contrôler l'attribution des badges pour l'ach??vement de Pathway)
+(Peut être utilisé pour contrôler les badges d'attribution pour l'achèvement de la voie),(peut ?être utilisé?? pour contrôler l'attribution des badges pour l'ach??vement de Pathway)
+(Section de contenu),(Section de contenu)
+(Section de contenu),(Section de contenu)
+(Section de canal),(Section de la canal)
+(Section de canal),(Section de la canal)
+Recevoir des recommandations de contenu uniquement dans les langues sélectionnées.,[fuzzy]Recevoir des recommandations de contenu uniquement dans les langues s??lectionn??es
+Recevoir des recommandations de contenu uniquement dans les langues sélectionnées.,[fuzzy]Recevoir des recommandations de contenu uniquement dans les langues s??lectionn??es
+Veuillez sélectionner une compétence.,[fuzzy]Veuillez sélectionner une compétence
+Veuillez sélectionner une compétence.,[fuzzy]Veuillez sélectionner une compétence
+Veuillez sélectionner une compétence.(besoin de 3 caractères minimum).,[fuzzy]Veuillez sélectionner une compétence (au moins 3 caract??res minimum).
+Veuillez sélectionner une compétence.(besoin de 3 caractères minimum).,[fuzzy]Veuillez sélectionner une compétence (au moins 3 caract??res minimum).
+[Mois: jours: heures: min],[Mois : Jours : Heures : Minutes]
+[Mois: jours: heures: min],[Mois : Jours : Heures : Minutes]
+{Tout le type de carte standard possible},{tous les types de cartes standard possibles}
+{Tout le type de carte standard possible},{tous les types de cartes standard possibles}
+* La suppression des utilisateurs ou des groupes sera inférieur au contenu.,* La suppression d'utilisateurs ou de groupes annule le partage du contenu.
+* La suppression des utilisateurs ou des groupes sera inférieur au contenu.,* La suppression d'utilisateurs ou de groupes annule le partage du contenu.
+* La suppression des utilisateurs ou des groupes désassignerra le contenu.,* La suppression d'utilisateurs ou de groupes d??sattribuera le contenu.
+* La suppression des utilisateurs ou des groupes désassignerra le contenu.,* La suppression d'utilisateurs ou de groupes d??sattribuera le contenu.
+* indique requis,* signifie obligatoire
+* indique requis,* signifie obligatoire
+* Excl.Taxes,* Taxes de chevaux
+* Excl.Taxes,* Taxes de chevaux
+#Cloud computing,#Cloud computing
+#Cloud computing,#Cloud computing
+% Complété,% Complà? Tude
+% Complété,% Complà? Tude
+% {Taille de carte acceptée} à accepter,%{accepted Cards Size} fiches qui vont ?très accept??es
+% {Taille de carte acceptée} à accepter,%{accepted Cards Size} fiches qui vont ?très accept??es
+% {action} image,% {action} image
+% {action} image,% {action} image
+% {AssignedUser} sur% {attribuéaDatFormatTdDate},% {AssignedUser} le% {attribuéaDatFormatTdDate}
+% {AssignedUser} sur% {attribuéaDatFormatTdDate},% {AssignedUser} le% {attribuéaDatFormatTdDate}
+% {clctarget} hrs,% {clctarget} hrs
+% {clctarget} hrs,% {clctarget} hrs
+% {commentaires} Commentaires,%{commentsCount} commentaires
+% {commentaires} Commentaires,%{commentsCount} commentaires
+% {count},% {count} ?? l ?? ments
+% {count},% {count} ?? l ?? ments
+% {count} Nouveaux utilisateurs,%{count} nouveaux utilisateurs
+% {count} Nouveaux utilisateurs,%{count} nouveaux utilisateurs
+% {count} de% {total} groupes sélectionnés,%{count} parmi %{total} groupes s??lectionn??s
+% {count} de% {total} groupes sélectionnés,%{count} parmi %{total} groupes s??lectionn??s
+% {count} de% {total} utilisateurs sélectionnés,%{count} parmi %{total} utilisateurs s??lectionn??s
+% {count} de% {total} utilisateurs sélectionnés,%{count} parmi %{total} utilisateurs s??lectionn??s
+% {count} SmartCards consommé,% {count} Les cartes à smart se complaient ?? t ?? es
+% {count} SmartCards consommé,% {count} Les cartes à smart se complaient ?? t ?? es
+% {count} SmartCards créé,% {count} SmartCards cr ???? es
+% {count} SmartCards créé,% {count} SmartCards cr ???? es
+% {count} de% {total} individus sélectionnés,%{count} sur %{total} individus s??lectionn??s
+% {count} de% {total} individus sélectionnés,%{count} sur %{total} individus s??lectionn??s
+% {count} utilisateurs actifs,%{count} utilisateurs actifs
+% {count} utilisateurs actifs,%{count} utilisateurs actifs
+% {comte} vote,% {comte} vote
+% {comte} vote,% {comte} vote
+% {comte} votes,% {comte} votes
+% {comte} votes,% {comte} votes
+Affichage de% {currentCount} sur% {totalCount},%{currentCount} visibles sur %{totalCount}
+Affichage de% {currentCount} sur% {totalCount},%{currentCount} visibles sur %{totalCount}
+"% {date}, à% {heure}","%{Date}, ?%{temps}"
+"% {date}, à% {heure}","%{Date}, ?%{temps}"
+% {errormsg},% {errormsg}
+% {errormsg},% {errormsg}
+% {filtrezing} filtres,% {taille de filtre} filtre
+% {filtrezing} filtres,% {taille de filtre} filtre
+% {label} Commentaire,%{label} Commentaire
+% {label} Commentaire,%{label} Commentaire
+% {label} Remarques,%{label} Remarques
+% {label} Remarques,%{label} Remarques
+Membres de% {longueur},% {longueur} membres
+Membres de% {longueur},% {longueur} membres
+% {compascount} aime,% {compascount} ?? j ?? aime?
+% {compascount} aime,% {compascount} ?? j ?? aime?
+Affichage de% {les membres comptent} sur% {total des membres},% {nombre de membres} Visible Sir% {Membres totaux}
+Affichage de% {les membres comptent} sur% {total des membres},% {nombre de membres} Visible Sir% {Membres totaux}
+% {min} m% {Secs} S,% {min} mn% {sec} sec
+% {min} m% {Secs} S,% {min} mn% {sec} sec
+% {nom} n'a rien en cours.,%{name} n'a rien en cours actuellement.
+% {nom} n'a rien en cours.,%{name} n'a rien en cours actuellement.
+"% {nom}, permettez-nous de personnaliser le contenu en fonction de vos objectifs d'apprentissage.Ajouter jusqu'à% {count} buts.","%{name}, laissez-nous personnaliser votre apprentissage en fonction de vos int??r?ts d??apprentissage. Veuillez choisir jusqu??? %{count} sujets."
+"% {nom}, permettez-nous de personnaliser le contenu en fonction de vos objectifs d'apprentissage.Ajouter jusqu'à% {count} buts.","%{name}, laissez-nous personnaliser votre apprentissage en fonction de vos int??r?ts d??apprentissage. Veuillez choisir jusqu??? %{count} sujets."
+% {no} px,% {no} px
+% {no} px,% {no} px
+% {noofusers} membres,% {noofusers} membres
+% {noofusers} membres,% {noofusers} membres
+% {num},% {si} Ans
+% {num},% {si} Ans
+% {num} mois,%{num} mois
+% {num} mois,%{num} mois
+Dernier% {nombre} année,% {nombre} Derni ?? re (s) ann ?? e (s)
+Dernier% {nombre} année,% {nombre} Derni ?? re (s) ann ?? e (s)
+Dernier% {nombre} jours,%{number} derniers jours
+Dernier% {nombre} jours,%{number} derniers jours
+Dernier% {nombre} mois,%{number} derniers mois
+Dernier% {nombre} mois,%{number} derniers mois
+% {options} correspondants trouvés,%{options} r??sultats trouv??s
+% {options} correspondants trouvés,%{options} r??sultats trouv??s
+% {Taille de carte rejetée} à rejeter,%{rejected Card Size} fiches qui vont ?être rejetées
+% {Taille de carte rejetée} à rejeter,%{rejected Card Size} fiches qui vont ?être rejetées
+% {restanttext} /% {maxlen} gauche,% {texte restant} /% {maxlen} résistant
+% {restanttext} /% {maxlen} gauche,% {texte restant} /% {maxlen} résistant
+% {Secs} S,% {Secs} Sec
+% {Secs} S,% {Secs} Sec
+% {selectedDate} sur la mise au point Datepicker a ouvert: bouton attribué,%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Bouton assign??
+% {selectedDate} sur la mise au point Datepicker a ouvert: bouton attribué,%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Bouton assign??
+% {selectedDate} sur la mise au point Datepicker a ouvert: bouton démarré,%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Bouton commenc??
+% {selectedDate} sur la mise au point Datepicker a ouvert: bouton démarré,%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Bouton commenc??
+% {selectedDate} sur la mise au point Datepicker a ouvert: bouton d'échéance,%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Bouton ??ch??ance
+% {selectedDate} sur la mise au point Datepicker a ouvert: bouton d'échéance,%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Bouton ??ch??ance
+% {selectedDate} sur la mise au point Datepicker a ouvert: Date d'échéance pour% {coursetitle},%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Date d'??ch??ance pour %{courseTitle}
+% {selectedDate} sur la mise au point Datepicker a ouvert: Date d'échéance pour% {coursetitle},%{selectedDate} Le s??lecteur de date en ??vidence s'est ouvert?: Date d'??ch??ance pour %{courseTitle}
+% {selectedrowscount} Sélectionné,% {selectedrowscount} individues s ?? lectionn ?? s
+% {selectedrowscount} Sélectionné,% {selectedrowscount} individues s ?? lectionn ?? s
+% {selectedUsers} sur% {totalrsers} sélectionnés,% {selectedUsers} Sur% {totalSers} Individues s ?? lectionn ?? s
+% {selectedUsers} sur% {totalrsers} sélectionnés,% {selectedUsers} Sur% {totalSers} Individues s ?? lectionn ?? s
+% {snackbartype} supprimé.Cela ne se montrera plus jamais.,%{snackBarType} supprim??. Il ne sera plus jamais visible.
+% {snackbartype} supprimé.Cela ne se montrera plus jamais.,%{snackBarType} supprim??. Il ne sera plus jamais visible.
+% {symbole}% {montant} sera débité de votre compte.,%{symbol} %{amount} sera d??bit?? de votre compte.
+% {symbole}% {montant} sera débité de votre compte.,%{symbol} %{amount} sera d??bit?? de votre compte.
+% {title} supprimé.Cela ne se montrera plus jamais.,{}% De souper supprim ??.Cela N'appara ?? tra Plus.
+% {title} supprimé.Cela ne se montrera plus jamais.,{}% De souper supprim ??.Cela N'appara ?? tra Plus.
+% {topicsCount} / 50 sujets sélectionnés,%{topicsCount}/50 sujets choisis
+% {topicsCount} / 50 sujets sélectionnés,%{topicsCount}/50 sujets choisis
+Affichage de% {total} de% {total},%{total} visibles sur %{total}
+Affichage de% {total} de% {total},%{total} visibles sur %{total}
+% {totalcardSize} Sélections faites:,%{totalCardSize} s??lections faites?:
+% {totalcardSize} Sélections faites:,%{totalCardSize} s??lections faites?:
+% {TotalItems} Résultats,%{totalItems} r??sultats pour
+% {TotalItems} Résultats,%{totalItems} r??sultats pour
+% {totalItems} Résultats pour,%{totalItems} r??sultats pour
+% {totalItems} Résultats pour,%{totalItems} r??sultats pour
+Affichage de% {données modales totales} de% {données modales totales},% {Total modaldata} Visible South% {total modaldata}
+Affichage de% {données modales totales} de% {données modales totales},% {Total modaldata} Visible South% {total modaldata}
+% {type}% {name} a été mis à jour avec succès!,%{type} %{name} a ??t?? mis ? jour avec succès!
+% {type}% {name} a été mis à jour avec succès!,%{type} %{name} a ??t?? mis ? jour avec succès!
+% {type}% {name} a été publié avec succès!,% {type}% {name} a ?? t ??publie ??AVEC succ ?? s!
+% {type}% {name} a été publié avec succès!,% {type}% {name} a ?? t ??publie ??AVEC succ ?? s!
+% {type} enregistré en tant que projet avec succès,%{type} brouillon sauvegardé?? avec succès
+% {type} enregistré en tant que projet avec succès,%{type} brouillon sauvegardé?? avec succès
+% {type} collaborateurs,%{type} Collaborateurs
+% {type} collaborateurs,%{type} Collaborateurs
+% {type} Création,% {type} cr ?? ation
+% {type} Création,% {type} cr ?? ation
+% {utilisateur} a apporté des modifications,%{user} a fait des changements
+% {utilisateur} a apporté des modifications,%{user} a fait des changements
+% {valeur} hr,% {valeur} h
+% {valeur} hr,% {valeur} h
+% {valeur} HRS,% {valeur} h
+% {valeur} HRS,% {valeur} h
+% Maximum {Viltregistrationlimit} autorisé,% {Viltregistrimit} Manymis au maximum
+% Maximum {Viltregistrationlimit} autorisé,% {Viltregistrimit} Manymis au maximum
+$ min,$ min
+$ min,$ min
+???? Min,???? Min
+???? Min,???? Min
+0 - 10 min,0 - 10 minutes
+0 - 10 min,0 - 10 minutes
+0 - 10 min,0 - 10 minutes
+0 - 10 min,0 - 10 minutes
+0hr 0min,0h 0min
+0hr 0min,0h 0min
+1 an,1 Ann ?? e
+1 an,1 Ann ?? e
+Last1,1? Derni ?? re l'année?
+Last1,1? Derni ?? re l'année?
+1 filtre,1 filtre
+1 filtre,1 filtre
+1 heure - 6 heures,1 heure - 6 heure
+1 heure - 6 heures,1 heure - 6 heure
+1 heure 19 minutes,1 heure 19 minutes
+1 heure 19 minutes,1 heure 19 minutes
+1 mois,1 mois
+1 mois,1 mois
+1 mois,1 mois
+1 mois,1 mois
+1 paramètres,1 param ??
+1 paramètres,1 param ??
+1 sur 1 montré,1 SUP 1 Affians ??
+1 sur 1 montré,1 SUP 1 Affians ??
+10 mois,10 mois
+10 mois,10 mois
+11 mois,11 mois
+11 mois,11 mois
+2 années,2 Ann ?? it
+2 années,2 Ann ?? it
+2 mois,2 mois
+2 mois,2 mois
+200/200 à gauche,200/200 Restant (E) S
+200/200 à gauche,200/200 Restant (E) S
+montrant 2000 de% {total},2000 visibles sur %{total}
+montrant 2000 de% {total},2000 visibles sur %{total}
+2014 -% {année} Edcast Inc. Tous droits réservés.,2014 -% {Year} Edcast Inc. Tous Droits r ?? Serv ?? s.
+2014 -% {année} Edcast Inc. Tous droits réservés.,2014 -% {Year} Edcast Inc. Tous Droits r ?? Serv ?? s.
+3 années,3 Ann ?? it
+3 années,3 Ann ?? it
+3 mois,3 mois
+3 mois,3 mois
+4 années,4 Ann ?? it
+4 années,4 Ann ?? it
+4 mois,4 mois
+4 mois,4 mois
+5 années,5 Ann ?? it
+5 années,5 Ann ?? it
+5 mois,5 mois
+5 mois,5 mois
+6 heures - 24 heures,6 heure - 24 heure
+6 heures - 24 heures,6 heure - 24 heure
+1 heure - 6 heures,6 heures - 24 heures
+1 heure - 6 heures,6 heures - 24 heures
+6 heures - 24 heures,6 heures - 24 heures
+6 heures - 24 heures,6 heures - 24 heures
+6 mois,6 mois
+6 mois,6 mois
+7 mois,7 mois
+7 mois,7 mois
+8 chiffres alpha numérique,8 chiffres alpha num??rique
+8 chiffres alpha numérique,8 chiffres alpha num??rique
+8 mois,8 mois
+8 mois,8 mois
+9 mois,9 mois
+9 mois,9 mois

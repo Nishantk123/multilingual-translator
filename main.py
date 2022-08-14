@@ -3,8 +3,26 @@ import csv
 from io import StringIO
 from googletrans import Translator
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+import io
+import os
+import pandas as pd
 app = FastAPI()
+origins = [
+    "http://localhost.tiangolo.com",
+    "https://localhost.tiangolo.com",
+    "http://localhost:3000",
+    "http://localhost:8080",
+]
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 translator = Translator()
 
 def predict_lang_google(text):
@@ -13,7 +31,6 @@ def predict_lang_google(text):
 def translate_text(text, g_code="en-US"):
     translator = Translator()
     d = translator.translate(text, dest=g_code)
-    print(d)
     return d
 class Lang(BaseModel):
     lang: str
@@ -24,60 +41,36 @@ async def write_home(lang: str = Body(..., embed=True), file: UploadFile = File(
     contents = await file.read()
     decoded = contents.decode(encoding="utf8", errors='ignore')
     buffer = StringIO(decoded)
-    csvReader = csv.DictReader(buffer)
-    print(csvReader)
-
-    for rows in csvReader:     
-        print(rows) 
-        data.append(rows)      
-
-    print(data)    
-    buffer.close()
-    filter_data = []
+    datacsv = csv.reader(buffer)
     translator = Translator()
-    g_code="hi"
     g_code = lang
-    for key in data:
-        print(key)
-        obj_data = {}
-        key_list = list(key.keys())
+    convert_data =[]
+    translated_text = dict()
+    index = 0
+    for row in datacsv:
+        yodata=[]
+        for k in row:
+            if k in translated_text:
+                yodata.append(translated_text[k])
+            else:
+                try:
+                    d =  translator.translate(k, dest=g_code).text
+                    translated_text[k] = d
+                    yodata.append(d)
+                except:
+                    yodata.append(d)
+        index = index + 1
+        print(index, yodata)
+        convert_data.append(yodata)
 
-        for d in key_list:
-            print(d)
-            obj_data[d]  = translator.translate(key.get(d), dest=g_code).text
-            filter_data.append(obj_data)
-
-        # data = translator.translate(key.get("data"), dest=g_code)
-        # data1 = translator.translate(key.get("data1"),  dest=g_code)
-        # obj_data["data"] = str(data.text)
-        # obj_data["data1"] = str(data1.text)
-        # filter_data.append(obj_data)
-
-    # print(filter_data)
-
-    for yo in filter_data:
-        print(yo)
-
-    # field names
-    fields = ['data', 'data1']
- 
-    # name of csv file
+    with open('final.csv', 'w', encoding="utf-8") as f:
+        # using csv.writer method from CSV package
+        write = csv.writer(f)
+        # write.writerow(fields)
+        write.writerows(convert_data)
+    stream = io.StringIO()
     filename ="final.csv"
+    file_name="final"
+    file_path = os.getcwd() + "/" + filename
+    return FileResponse(file_path, filename=filename)
 
-    #filename = "university_records.csv"
-    
-   # writing to csv file
-    with open(filename, 'w', encoding="utf-8") as csvfile:
-        # creating a csv dict writer object
-        writer = csv.DictWriter(csvfile, fieldnames = fields)
-        
-        # writing headers (field names)
-        writer.writeheader()
-        
-        # writing data rows
-        writer.writerows(filter_data)
-    return filter_data
-    # return{
-    #     "Name": "Kashyap",
-    #     "Age": 29
-    # }

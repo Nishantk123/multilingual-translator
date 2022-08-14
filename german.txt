@@ -1,0 +1,259 @@
+data,data1
+Veröffentlicht an {ChannelName},Veröffentlicht??In %{ChannelName}
+Veröffentlicht an {ChannelName},Veröffentlicht??In %{ChannelName}
+#NAME?,#NAME?
+#NAME?,#NAME?
+#NAME?,- Niveau der Skill -ID?
+#NAME?,- Niveau der Skill -ID?
+#NAME?,- Niveau der Skill -ID?
+#NAME?,- Niveau der Skill -ID?
+"Meine Punktzahl ist ein persönlicher Tracker Ihres Lernens und Einflusses.Jede Aktion, die Sie auf Edcast ergreifen, erhält Sie Punkte und wirkt sich auf Ihre Punktzahl aus.Sie können in Echtzeit sehen, wie es Ihnen im Vergleich zu Ihren Kollegen geht.Punkte werden verdient von:","""Meine Partitur"" ist die Aggregation Ihres Lernens und Ihres Einflusses.Jede Aktion befindet sich auf Edcast Reports Points und beeinflusst Ihre Punktzahl.Die Punkte gewinnen an:"
+"Meine Punktzahl ist ein persönlicher Tracker Ihres Lernens und Einflusses.Jede Aktion, die Sie auf Edcast ergreifen, erhält Sie Punkte und wirkt sich auf Ihre Punktzahl aus.Sie können in Echtzeit sehen, wie es Ihnen im Vergleich zu Ihren Kollegen geht.Punkte werden verdient von:","""Meine Partitur"" ist die Aggregation Ihres Lernens und Ihres Einflusses.Jede Aktion befindet sich auf Edcast Reports Points und beeinflusst Ihre Punktzahl.Die Punkte gewinnen an:"
+"Meine Punktzahl hilft Ihnen, Ihren Fortschritt zu messen","""Meine Partitur"" hilft dir?Messen Sie Ihren Fortschritt"
+"Meine Punktzahl hilft Ihnen, Ihren Fortschritt zu messen","""Meine Partitur"" hilft dir?Messen Sie Ihren Fortschritt"
+Likes:,??Ich mag??:
+Likes:,??Ich mag??:
+(%{Typ} Abschnitt),(%{Typ} Abschnitt)
+(%{Typ} Abschnitt),(%{Typ} Abschnitt)
+(Aktuell),(Aktuell)
+(Aktuell),(Aktuell)
+(Brauchen mindestens 3 Zeichen),(Mindestens 3 Zeichen mindestens)
+(Brauchen mindestens 3 Zeichen),(Mindestens 3 Zeichen mindestens)
+(Inhalte aus dem gesamten Web),(Inhalt des gesamten Webs)
+(Inhalte aus dem gesamten Web),(Inhalt des gesamten Webs)
+"(JPG, JPEG, PNG, bis zu %{Größe})","(JPG, JPEG, PNG, Jusqu '? %{Größe})"
+"(JPG, JPEG, PNG, bis zu %{Größe})","(JPG, JPEG, PNG, Jusqu '? %{Größe})"
+"(JPG, JPEG, PNG, bis zu %{Größe})","(JPG, JPEG, PNG, Jusqu '? %{Größe})"
+"(JPG, JPEG, PNG, bis zu %{Größe})","(JPG, JPEG, PNG, Jusqu '? %{Größe})"
+(Maximal 15 Mitarbeiter),(Maximal 15 Mitarbeiter)
+(Maximal 15 Mitarbeiter),(Maximal 15 Mitarbeiter)
+(Maximal 3 Fähigkeiten),(Maximum de 3 comp? Teces)
+(Maximal 3 Fähigkeiten),(Maximum de 3 comp? Teces)
+(Maximal 3 Fähigkeiten),(Maximum de 3 comp? Teces)
+(Maximal 3 Fähigkeiten),(Maximum de 3 comp? Teces)
+(Monat: Tage: HRS: mins),(Monat: Tage: H: min)
+(Monat: Tage: HRS: mins),(Monat: Tage: H: min)
+"(Kann verwendet werden, um die Vergabe von Abzeichen für die Fertigstellung des Pfades zu kontrollieren)",(kann verwendet werden?
+"(Kann verwendet werden, um die Vergabe von Abzeichen für die Fertigstellung des Pfades zu kontrollieren)",(kann verwendet werden?
+(Inhaltsabschnitt),(Inhaltsabschnitt)
+(Inhaltsabschnitt),(Inhaltsabschnitt)
+(Kanalabschnitt),(Abschnitt des Kanals)
+(Kanalabschnitt),(Abschnitt des Kanals)
+Erhalten Sie Inhaltsempfehlungen nur in den ausgewählten Sprachen.,[Fuzzy] Erhalten Sie Inhaltsempfehlungen nur in den Sprachen
+Erhalten Sie Inhaltsempfehlungen nur in den ausgewählten Sprachen.,[Fuzzy] Erhalten Sie Inhaltsempfehlungen nur in den Sprachen
+Bitte wählen Sie eine Fähigkeit.,[Fuzzy] Bitte wählen Sie eine Fähigkeit aus
+Bitte wählen Sie eine Fähigkeit.,[Fuzzy] Bitte wählen Sie eine Fähigkeit aus
+Bitte wählen Sie eine Fähigkeit.(benötigen mindestens 3 Zeichen).,[Fuzzy] Bitte wählen Sie eine Fähigkeit (mindestens 3 Mindestmerkmale).
+Bitte wählen Sie eine Fähigkeit.(benötigen mindestens 3 Zeichen).,[Fuzzy] Bitte wählen Sie eine Fähigkeit (mindestens 3 Mindestmerkmale).
+[Monat: Tage: Stunden: mins],[Monat: Tage: Stunden: Minuten]
+[Monat: Tage: Stunden: mins],[Monat: Tage: Stunden: Minuten]
+{Alle möglichen Standardkartentypen},{Alle Standardkartentypen}}
+{Alle möglichen Standardkartentypen},{Alle Standardkartentypen}}
+*Das Entfernen von Benutzern oder Gruppen wird Inhalt nicht geschafft.,* Die Löschung von Benutzern oder Gruppen spricht die Freigabe von Inhalten ab.
+*Das Entfernen von Benutzern oder Gruppen wird Inhalt nicht geschafft.,* Die Löschung von Benutzern oder Gruppen spricht die Freigabe von Inhalten ab.
+*Das Entfernen von Benutzern oder Gruppen wird Inhalt nicht verpflichtet.,* Die Löschung von Benutzern oder Gruppen setzt den Inhalt zusammen.
+*Das Entfernen von Benutzern oder Gruppen wird Inhalt nicht verpflichtet.,* Die Löschung von Benutzern oder Gruppen setzt den Inhalt zusammen.
+* Zeigt erforderlich an,* bedeutet obligatorisch
+* Zeigt erforderlich an,* bedeutet obligatorisch
+*Exkl.Steuern,*Vorspeisen
+*Exkl.Steuern,*Vorspeisen
+#Cloud Computing,#Cloud Computing
+#Cloud Computing,#Cloud Computing
+% Abgeschlossen,% Beschwerde ?? Tude
+% Abgeschlossen,% Beschwerde ?? Tude
+%{akzeptierte Kartengröße} Karten zu akzeptieren,"%{Akitptierte Kartengröße} Blätter, die gehen? Sehr akzeptiert"
+%{akzeptierte Kartengröße} Karten zu akzeptieren,"%{Akitptierte Kartengröße} Blätter, die gehen? Sehr akzeptiert"
+%{action} Bild,%{action} Bild
+%{action} Bild,%{action} Bild
+%{ordnungsgemäß} auf %{ordnungsgemäße DatenformattedDate},%{ordnungsgemäß} le %{ordnungsgemäße DatenformattedDate}
+%{ordnungsgemäß} auf %{ordnungsgemäße DatenformattedDate},%{ordnungsgemäß} le %{ordnungsgemäße DatenformattedDate}
+%{clctarget} HRS,%{clctarget} HRS
+%{clctarget} HRS,%{clctarget} HRS
+%{commentsCount} Kommentare,%{Kommentare cound} Kommentare
+%{commentsCount} Kommentare,%{Kommentare cound} Kommentare
+%{count} Elemente,%{count} ?? L ?? Ments
+%{count} Elemente,%{count} ?? L ?? Ments
+%{count} Neue Benutzer,%{Count} Neue Benutzer
+%{count} Neue Benutzer,%{Count} Neue Benutzer
+%{count} von %{Total} -Gruppen ausgewählt,%{Count} unter %{Total} Gruppen ?? s
+%{count} von %{Total} -Gruppen ausgewählt,%{Count} unter %{Total} Gruppen ?? s
+%{count} von %{Total} -Nutzern ausgewählt,%{Count} unter %{Total} Benutzer? S? S?
+%{count} von %{Total} -Nutzern ausgewählt,%{Count} unter %{Total} Benutzer? S? S?
+%{count} Smartcards konsumiert,%{count} SmartCards beschweren sich?
+%{count} Smartcards konsumiert,%{count} SmartCards beschweren sich?
+%{count} SmartCards erstellt,%{count} smartcards cr ???? es
+%{count} SmartCards erstellt,%{count} smartcards cr ???? es
+%{count} von %{Gesamt} ausgewählte Personen,%{Count} auf %{Total} Individuen ?? s
+%{count} von %{Gesamt} ausgewählte Personen,%{Count} auf %{Total} Individuen ?? s
+%{count} aktive Benutzer,%{Count} aktive Benutzer
+%{count} aktive Benutzer,%{Count} aktive Benutzer
+%{count} Stimme,%{count} Stimme
+%{count} Stimme,%{count} Stimme
+%{count} Stimmen,%{count} Stimmen
+%{count} Stimmen,%{count} Stimmen
+Zeigt %{currentCount} aus %{TotalCount},%{CurrentCount} auf %{TotalCount} sichtbar
+Zeigt %{currentCount} aus %{TotalCount},%{CurrentCount} auf %{TotalCount} sichtbar
+"%{Datum}, bei %{Uhrzeit}","%{Datum}, ?%{Zeit}"
+"%{Datum}, bei %{Uhrzeit}","%{Datum}, ?%{Zeit}"
+% {errormsg},% {errormsg}
+% {errormsg},% {errormsg}
+%{filtersize} Filter,%{Filtergröße} Filter
+%{filtersize} Filter,%{Filtergröße} Filter
+%{Label} Kommentar,%{Label} Kommentar
+%{Label} Kommentar,%{Label} Kommentar
+%{Label} Bemerkungen,%{Label} Bemerkungen
+%{Label} Bemerkungen,%{Label} Bemerkungen
+%{Länge} Mitglieder,%{Länge} Membres
+%{Länge} Mitglieder,%{Länge} Membres
+%{likescount} Likes,%{likescount} ?? J ?? aime?
+%{likescount} Likes,%{likescount} ?? J ?? aime?
+Zeigen Sie %{Mitglieder zählen} aus %{Gesamtmitglieder},%{Mitgliedszahl} Sichtbarer Sir %{Gesamtmitglieder}
+Zeigen Sie %{Mitglieder zählen} aus %{Gesamtmitglieder},%{Mitgliedszahl} Sichtbarer Sir %{Gesamtmitglieder}
+%{mins} m %{Secs} s,%{mins} mn %{Secs} Sec
+%{mins} m %{Secs} s,%{mins} mn %{Secs} Sec
+%{Name} habe nichts in Arbeit.,%{Name} hat jetzt nichts in Arbeit.
+%{Name} habe nichts in Arbeit.,%{Name} hat jetzt nichts in Arbeit.
+"%{Name}, lassen Sie uns den Inhalt anhand Ihrer Lernziele personalisieren.Addieren Sie bis %{count} Ziele.","%{name}, lassen Sie uns Ihr Lernen nach Ihrem uninteressanten Personen personalisieren.Bitte wählen Sie ???%{Count} Themen."
+"%{Name}, lassen Sie uns den Inhalt anhand Ihrer Lernziele personalisieren.Addieren Sie bis %{count} Ziele.","%{name}, lassen Sie uns Ihr Lernen nach Ihrem uninteressanten Personen personalisieren.Bitte wählen Sie ???%{Count} Themen."
+%{no} px,%{no} px
+%{no} px,%{no} px
+%{noofusers} Mitglieder,%{noofusers} Membres
+%{noofusers} Mitglieder,%{noofusers} Membres
+%{num} Jahre,% {ob} ans
+%{num} Jahre,% {ob} ans
+%{num} Monate,%{Nummer} Monat
+%{num} Monate,%{Nummer} Monat
+Last %{number} Jahr,%{Nummer} Derni ?? re (s) Ann ?? e (s)
+Last %{number} Jahr,%{Nummer} Derni ?? re (s) Ann ?? e (s)
+Last %{number} Tage,%{Zahl} Letzte Tage
+Last %{number} Tage,%{Zahl} Letzte Tage
+Letzte %{Zahl} Monate,%{Nummer} Letzte Monate
+Letzte %{Zahl} Monate,%{Nummer} Letzte Monate
+%{Optionen} Übereinstimmungen gefunden,%{Optionen} r?
+%{Optionen} Übereinstimmungen gefunden,%{Optionen} r?
+"%{abgelehnte Kartengröße} Karten, die abgelehnt werden sollen","%{abgelehnte Kartengröße} Blätter, die abgelehnt werden"
+"%{abgelehnte Kartengröße} Karten, die abgelehnt werden sollen","%{abgelehnte Kartengröße} Blätter, die abgelehnt werden"
+%{verbleibend}/%{maxlen} links,%{verbleibender Text}/%{maxlen} resistant
+%{verbleibend}/%{maxlen} links,%{verbleibender Text}/%{maxlen} resistant
+%{Secs} s,%{Secs} Sec
+%{Secs} s,%{Secs} Sec
+%{SelectedDate} für Focus Datumspicker hat geöffnet: zugewiesene Taste,%{SelectedDate} Das Datum des Datums im Bereich ?: Schaltfläche zuordnen ??
+%{SelectedDate} für Focus Datumspicker hat geöffnet: zugewiesene Taste,%{SelectedDate} Das Datum des Datums im Bereich ?: Schaltfläche zuordnen ??
+%{SelectedDate} zum Fokus -Datumspunkt hat geöffnet: Startknopf,%{SelectedDate} Das Datum des Datums des geöffneten Bereichs?
+%{SelectedDate} zum Fokus -Datumspunkt hat geöffnet: Startknopf,%{SelectedDate} Das Datum des Datums des geöffneten Bereichs?
+%{SelectedDate} zum Fokus -Datumspunkt hat geöffnet: Fälligkeitstaste,%{selectedDate} Das Datum des Datums in der?
+%{SelectedDate} zum Fokus -Datumspunkt hat geöffnet: Fälligkeitstaste,%{selectedDate} Das Datum des Datums in der?
+%{SelectedDate} zum Fokus -Datumspunkt hat geöffnet: Fälligkeitsdatum für %{Coursetitle},%{SelectedDate} Das Datum des Datums im Bereich hat geöffnet ?: Datum des? Ance für %{Racetitle}
+%{SelectedDate} zum Fokus -Datumspunkt hat geöffnet: Fälligkeitsdatum für %{Coursetitle},%{SelectedDate} Das Datum des Datums im Bereich hat geöffnet ?: Datum des? Ance für %{Racetitle}
+%{SelectedRowsCount} Personen ausgewählt,%{SelectedRowsCount} individuals? LectionN?
+%{SelectedRowsCount} Personen ausgewählt,%{SelectedRowsCount} individuals? LectionN?
+%{selectedUsers} aus %{TotalUsers} Individuen ausgewählt,%{selectedUsers} sur %{TotalUsers} individualus S? LectionN ?? s
+%{selectedUsers} aus %{TotalUsers} Individuen ausgewählt,%{selectedUsers} sur %{TotalUsers} individualus S? LectionN ?? s
+%{snackBartype} gelöscht.Es wird nie wieder zeigen.,%{snackBartype} löschen ??.Es wird nie wieder sichtbar sein.
+%{snackBartype} gelöscht.Es wird nie wieder zeigen.,%{snackBartype} löschen ??.Es wird nie wieder sichtbar sein.
+%{symbol} %{Menge} wird von Ihrem Konto belastet.,%{symbol} %{love} wird sein bit ??ihr Konto.
+%{symbol} %{Menge} wird von Ihrem Konto belastet.,%{symbol} %{love} wird sein bit ??ihr Konto.
+%{Titel} gelöscht.Es wird nie wieder zeigen.,{}% Supper Supprim ??.Cela n'appara ?? Tra Plus.
+%{Titel} gelöscht.Es wird nie wieder zeigen.,{}% Supper Supprim ??.Cela n'appara ?? Tra Plus.
+%{topicsCount}/50 ausgewählte Themen,%{TopicsCount}/50 ausgewählte Themen
+%{topicsCount}/50 ausgewählte Themen,%{TopicsCount}/50 ausgewählte Themen
+Zeigt %{Gesamt} von %{Total},%{Total} sich auf %{Total} sichtbar
+Zeigt %{Gesamt} von %{Total},%{Total} sich auf %{Total} sichtbar
+%{TotalCardSize} Auswahl gemacht:,%{TotalCardSize} s?
+%{TotalCardSize} Auswahl gemacht:,%{TotalCardSize} s?
+%{TotalItems} Ergebnisse,%{TotalItems} r?
+%{TotalItems} Ergebnisse,%{TotalItems} r?
+%{TotalItems} Ergebnisse für,%{TotalItems} r?
+%{TotalItems} Ergebnisse für,%{TotalItems} r?
+Zeigt %{Gesamtmodaldaten} von %{Gesamtmodaldaten}},%{Total modaldata} Sichtbarer Süd %{Total modaldata}
+Zeigt %{Gesamtmodaldaten} von %{Gesamtmodaldaten}},%{Total modaldata} Sichtbarer Süd %{Total modaldata}
+%{Typ} %{Name} wurde erfolgreich aktualisiert!,%{Typ} %{Name} a ?? T ??stellen?Erfolgreicher Tag!
+%{Typ} %{Name} wurde erfolgreich aktualisiert!,%{Typ} %{Name} a ?? T ??stellen?Erfolgreicher Tag!
+%{Typ} %{Name} wurde erfolgreich veröffentlicht!,%{Typ} %{Name} a ?? T ??Publi ??AVEC Succ S!
+%{Typ} %{Name} wurde erfolgreich veröffentlicht!,%{Typ} %{Name} a ?? T ??Publi ??AVEC Succ S!
+%{Typ} als erfolgreich als Entwurf gespeichert,%{Typ} gespeicherter Entwurf ??mit Erfolg
+%{Typ} als erfolgreich als Entwurf gespeichert,%{Typ} gespeicherter Entwurf ??mit Erfolg
+%{Typ} Mitarbeiter,%{Typ} Mitarbeiter
+%{Typ} Mitarbeiter,%{Typ} Mitarbeiter
+%{Typ} Erstellung,%{Typ} cr ??
+%{Typ} Erstellung,%{Typ} cr ??
+%{user} nahm Änderungen vor,%{Benutzer} hat Änderungen vorgenommen
+%{user} nahm Änderungen vor,%{Benutzer} hat Änderungen vorgenommen
+%{Wert} St.,%{Wert} h
+%{Wert} St.,%{Wert} h
+%{Wert} Std.,%{Wert} h
+%{Wert} Std.,%{Wert} h
+Maximal %{viltregistrationLimit} erlaubt,% {ViltrEgistrimit} MEHREMIS AU Maximum
+Maximal %{viltregistrationLimit} erlaubt,% {ViltrEgistrimit} MEHREMIS AU Maximum
+$ min,$ min
+$ min,$ min
+????Mindest,????Mindest
+????Mindest,????Mindest
+0 - 10 min,0 - 10 Minuten
+0 - 10 min,0 - 10 Minuten
+0 - 10 min,0 - 10 Minuten
+0 - 10 min,0 - 10 Minuten
+0HR 0min,0H 0min
+0HR 0min,0H 0min
+1 Jahr,1 Ann ?? e
+1 Jahr,1 Ann ?? e
+Last1year,1? Derni?
+Last1year,1? Derni?
+1 Filter,1 Filter
+1 Filter,1 Filter
+1 Stunde - 6 Stunden,1 Stunde - 6 Stunden
+1 Stunde - 6 Stunden,1 Stunde - 6 Stunden
+1 Stunde 19 Minuten,1 Stunde 19 Minuten
+1 Stunde 19 Minuten,1 Stunde 19 Minuten
+1 Monat,1 Monat
+1 Monat,1 Monat
+1 Monat,1 Monat
+1 Monat,1 Monat
+1 Einstellungen,1 Param?
+1 Einstellungen,1 Param?
+1 von 1 gezeigt,1 Sup 1 Affianian?
+1 von 1 gezeigt,1 Sup 1 Affianian?
+10 Monate,10 Monate
+10 Monate,10 Monate
+11 Monate,11 Monate
+11 Monate,11 Monate
+2 Jahre,2 ann??es
+2 Jahre,2 ann??es
+2 Monate,2 Monate
+2 Monate,2 Monate
+200/200 links,200/200 Restant (e) s
+200/200 links,200/200 Restant (e) s
+zeigen 2000 von %{Total},2000 auf %{Total} sichtbar
+zeigen 2000 von %{Total},2000 auf %{Total} sichtbar
+2014 - %{Jahr} Edcast Inc. Alle Rechte vorbehalten.,2014 - %{Jahr} edcast Inc. Tous droits r? Serv? S.
+2014 - %{Jahr} Edcast Inc. Alle Rechte vorbehalten.,2014 - %{Jahr} edcast Inc. Tous droits r? Serv? S.
+3 Jahre,3 ann??es
+3 Jahre,3 ann??es
+3 Monate,3 Monate
+3 Monate,3 Monate
+4 Jahre,4 ann??es
+4 Jahre,4 ann??es
+4 Monate,4 Monate
+4 Monate,4 Monate
+5 Jahre,5 ann??es
+5 Jahre,5 ann??es
+5 Monate,5 Monate
+5 Monate,5 Monate
+6 Stunden - 24 Stunden,6 Stunden - 24 Stunden
+6 Stunden - 24 Stunden,6 Stunden - 24 Stunden
+1 Stunde - 6 Stunden,6 Stunden - 24 Stunden
+1 Stunde - 6 Stunden,6 Stunden - 24 Stunden
+6 Stunden - 24 Stunden,6 Stunden - 24 Stunden
+6 Stunden - 24 Stunden,6 Stunden - 24 Stunden
+6 Monate,6 Monate
+6 Monate,6 Monate
+7 Monate,7 Monate
+7 Monate,7 Monate
+8 Ziffern Alpha -Numerikum,8 Ziffern Alpha Num?
+8 Ziffern Alpha -Numerikum,8 Ziffern Alpha Num?
+8 Monate,8 Monate
+8 Monate,8 Monate
+9 Monate,9 Monate
+9 Monate,9 Monate
+EIN,EIN
+EIN,EIN
